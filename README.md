@@ -1,2 +1,2 @@
 # Meal-Plan
-Random Meal Generator
+Create a Meal Pan for everday. 
